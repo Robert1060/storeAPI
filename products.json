@@ -1,0 +1,131 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "company": "biedronka",
+    "rating": 4
+  },
+  {
+    "name": "albany sectional",
+    "price": 109,
+    "company": "lidl",
+    "rating": 5
+  },
+  {
+    "name": "albany table",
+    "price": 309,
+    "company": "ikea",
+    "rating": 4.9
+  },
+  {
+    "name": "armchair",
+    "price": 125,
+    "company": "poloMarket",
+    "rating": 4.8
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "company": "poloMarket",
+    "rating": 4.6
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "company": "biedronka",
+    "rating": 4.55
+  },
+  {
+    "name": "emperor bed",
+    "price": 23,
+    "company": "ikea"
+  },
+  {
+    "name": "entertainment center",
+    "price": 59,
+    "featured": true,
+    "company": "lidl"
+  },
+  {
+    "name": "high-back bench",
+    "price": 39,
+    "featured": true,
+    "company": "poloMarket"
+  },
+
+  {
+    "name": "leather sofa",
+    "price": 99,
+    "company": "lidl"
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "featured": true,
+    "company": "ikea"
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "company": "biedronka"
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "company": "ikea"
+  },
+  {
+    "name": "simple chair",
+    "price": 109,
+    "company": "poloMarket"
+  },
+  {
+    "name": "sofa set",
+    "price": 129,
+    "company": "lidl"
+  },
+  {
+    "name": "suede armchair",
+    "price": 15,
+    "company": "lidl"
+  },
+  {
+    "name": "utopia sofa",
+    "price": 79,
+    "featured": true,
+    "company": "biedronka"
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "featured": true,
+    "company": "poloMarket"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "lidl"
+  },
+  {
+    "name": "a first wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "lidl"
+  }
+]
